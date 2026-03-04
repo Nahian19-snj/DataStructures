@@ -1,8 +1,9 @@
 /******************************************
- * @Author      : Ali Azhari
+ * @Author      : Nahian Karim Sanjana
  * @Date        : Created On : Feb 25 2025
  * @File        : MyLinkedList.java
- * @Description : TODO
+ * @Description : linked list inerface 
+
  *******************************************/
 
 public interface ListInterface<T>
