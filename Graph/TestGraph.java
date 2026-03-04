@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Scanner;
 
 /* *****************************************
- *  @Author : Ali Azhari   
+ *  @Author : Nahhian Karim sanjana
  *  @Created On : Tue November 29 2025
  *  @File : TestGraph.java
- *  @Description: This test driver should not be modified
+ *  @Description: This testGraph test the graph methods 
  *******************************************/
 public class TestGraph {
 
